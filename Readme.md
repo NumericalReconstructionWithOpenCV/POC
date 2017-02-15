@@ -1,3 +1,8 @@
+###20170215 박성진
+>opencv K-Nearest neighbour(kNN) 알고리즘(머신러닝) 예제 실습 / Feature Matching 소스로 스타벅스 로고 연결 / opencv python detect object 소스를 이용하여 뭉크의 "절규" 그림을 인식해봤음
+
+=========================================
+
 ###20170215 김소연
 >인구수에 따른 소득 회귀분석. (인터넷에서 예제 찾아서 주석처리함)
  opject detect 부분은 아직 못함
