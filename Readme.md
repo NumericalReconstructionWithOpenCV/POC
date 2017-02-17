@@ -1,5 +1,5 @@
-###20170217 박성진
->3*3 검정 바탕의 하얀색 격자선을 빨간색으로 입힘으로써 인식해봤음
+﻿﻿###20170217 박성진
+  >3*3 검정 바탕의 하얀색 격자선을 빨간색으로 입힘으로써 인식해봤음
  
 ###20170215 박성진
 >opencv K-Nearest neighbour(kNN) 알고리즘(머신러닝) 예제 실습 / Feature Matching 소스로 스타벅스 로고 연결 / opencv python detect object 소스를 이용하여 뭉크의 "절규" 그림을 인식해봤음 / Face Detection using Haar Cascades 오픈 소스를 사용하여 축구 선수 "호날두" 전면 얼굴 인식과 눈 인식을 성공했음
